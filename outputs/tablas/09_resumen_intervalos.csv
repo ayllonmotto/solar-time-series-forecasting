@@ -1,0 +1,5 @@
+﻿Metrica;ARIMA;ETS
+Meses;['Jan', 'Feb', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov'];['Jan', 'Feb', 'Jun', 'Jul', 'Aug', 'Sep', 'Dec']
+Total;8;7
+Cobertura;66.67;58.33
+Amplitud;1380.3081000000002;805.7590916666668

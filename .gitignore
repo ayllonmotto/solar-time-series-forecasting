@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos
+.venv/
+venv/
+env/
+.env
+
+# IDE
+.spyproject/
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Datos originales descargados
+data/*.xlsx
+data/*.xls
+
+# Artefactos binarios regenerables
+outputs/*.pkl
+outputs/**/*.pkl
+
+# Temporales
+*.tmp
+*.log
